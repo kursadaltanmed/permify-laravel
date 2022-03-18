@@ -19,7 +19,7 @@
         "php": "^7.3|^8.0",
         "guzzlehttp/promises": "^1.5",
         "illuminate/support": "^8.0",
-        "permify/permify-php": "v0.0.7"
+        "permify/permify-php": "^1.0"
     },
     "require-dev": {
         "orchestra/testbench": "^6.0",
