@@ -52,5 +52,7 @@
                 "Permify": "Permify\\PermifyLaravel\\Facades\\PermifyFacade"
             }
         }
-    }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
