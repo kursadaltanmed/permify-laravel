@@ -7,7 +7,7 @@
     ],
     "homepage": "https://github.com/Permify/permify-laravel",
     "license": "MIT",
-    "type": "laravel-package",
+    "type": "library",
     "authors": [
         {
             "name": "Tolga Ozen",
@@ -52,7 +52,5 @@
                 "Permify": "Permify\\PermifyLaravel\\Facades\\PermifyFacade"
             }
         }
-    },
-    "minimum-stability": "dev",
-    "prefer-stable": true
+    }
 }
